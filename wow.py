@@ -23,6 +23,26 @@ def is_important_line(line):
             return False
         return True
 
+elemnts_lst = ["מוצא על־ידי", "העורך",  "םגן־העורך",  "תצלומים:", " תצלומי •השער", "הדפסת העטיפה:",
+
+
+sgan_orech = {
+    'name': 'deputy_editor',
+    'possible_keys': [
+        'סגן-עורך',
+        'סגן-העורך',
+        'םגן-עורך',
+        'םגן-העורך',
+        'סגן עורך',
+        'סגן העורך',
+        'םגן עורך',
+        'םגן העורך'
+    ]
+}
+
+keys = {
+
+}
 
 def main():
     metadata = """

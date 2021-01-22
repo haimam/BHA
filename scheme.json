@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "year": "int",
+    "month": {
+      "from": "string",
+      "to": "string"
+    },
+    "date_of_publish": "timestamp",
+    "issue_number": "int",
+    "publisher": "string",
+    "editor": "string",
+    "deputy_editor": "string",
+    "graphics_editor": "string",
+    "technical_editor": "string",
+    "price": {
+      "amount": "float",
+      "type": "string"
+    },
+    "photographers": ["string"],
+    "graphic_designers": ["string"],
+    "system": "string",
+    "print": {
+      "issue": "string",
+      "cover": "string",
+      "model": "string"
+    },
+    "subscription_price": {
+      "amount": "float",
+      "type": "string"
+    },
+    "number_of_pages": "int",
+    "notes": ["string"],
+    "subscription_only": "bool"
+  },
+  "index": [
+    {
+      "title": "string",
+      "description": "string",
+      "start_page": "int",
+      "author": "string"
+    }
+  ]
+}
