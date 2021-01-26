@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "year": "",
+        "month": {
+            "from": "",
+            "to": ""
+        },
+        "date_of_publish": "",
+        "issue_number": 198,
+        "publisher": "",
+        "editor": "",
+        "deputy_editor": "",
+        "graphics_editor": "",
+        "technical_editor": "",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [],
+        "graphic_designers": [],
+        "system": "",
+        "print": {
+            "issue": "",
+            "cover": "",
+            "model": ""
+        },
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "",
+        "notes": [],
+        "subscription_only": ""
+    },
+    "index": [
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": ""
+        }
+    ]
+}
